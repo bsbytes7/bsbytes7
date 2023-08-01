@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bsbytes7
 - 👀 I’m interested in Tech 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Tech and SAAS Apps
+- 💞️ I’m looking to collaborate on Tech
 - 📫 How to reach me ...
 
 <!---
